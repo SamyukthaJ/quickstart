@@ -9,7 +9,7 @@ export class Hero {
 @Component({
   selector: 'my-app',
   template: `
-      <h1>Angular 2</h1>
+      <h1>Angular 2 change</h1>
       <br>
       <h1>{{title}}</h1>
       <h2>{{hero.name}} details!</h2>
