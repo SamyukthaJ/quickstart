@@ -6,8 +6,8 @@ import { HeroService } from "./hero.service";
 @Component({
   selector: 'my-heroes',
   template: `
-      <h1>Heroes</h1>
-      <br>
+      <!--<h1>Heroes</h1>-->
+      <!--<br>-->
       <h1>{{title}}</h1>
       <h2>My Heroes</h2>
       <ul class="heroes">
